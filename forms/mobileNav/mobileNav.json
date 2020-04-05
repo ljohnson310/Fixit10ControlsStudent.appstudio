@@ -37,7 +37,7 @@
   "onshow": "",
   "openMode": "none",
   "parentForm": "",
-  "position": "absolute",
+  "position": "static",
   "script": null,
   "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
   "scrolling": "false",

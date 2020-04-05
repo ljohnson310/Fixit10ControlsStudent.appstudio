@@ -16,7 +16,34 @@
         "forms",
         "describeYou",
         "Elements",
-        "lblPrompt2.json"
+        "lblDescribeYou.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "radBtnYou.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "BtnToFavEx.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "btnPersonality.json"
       ]
     }
   ],

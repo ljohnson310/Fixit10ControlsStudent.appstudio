@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblPrompt2",
+  "id": "lblDessert",
   "labelStyle": "text",
-  "left": 24,
+  "left": 16,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -41,8 +41,8 @@
   "pTop": "",
   "right": "auto",
   "script": "",
-  "style": "",
-  "top": 40,
-  "value": "Which of these best describes your personality type? ",
-  "width": 208
+  "style": "color: \"#000000\";",
+  "top": 80,
+  "value": "Which of these desserts do you like the best? ",
+  "width": 192
 }
